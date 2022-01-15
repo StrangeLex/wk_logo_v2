@@ -1,9 +1,9 @@
 logo = ""
 
-animation = "spin2"
+animation = "none"
 
 background = "false"
 backgroundColor = "Orange"
 
-module_version = "false"
+module_version = "true"
 module_preconfig = "base"
