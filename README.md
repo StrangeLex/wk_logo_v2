@@ -9,6 +9,7 @@ logo = "" // lien de votre logo (Link of you logo)
 animation = "none" // Animation
 
 background = "false
+
 backgroundColor = "Orange"
 
 module_version = "true"
