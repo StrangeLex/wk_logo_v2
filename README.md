@@ -13,6 +13,7 @@ background = "false
 backgroundColor = "Orange"
 
 module_version = "true"
+
 module_preconfig = "base" // Preconfig (Its very important)
 
 # Preconfigs
