@@ -39,6 +39,7 @@ none : https://media.discordapp.net/attachments/885384020966400050/9314282335792
 # Animations
 
 None : ..
+
 spin : https://webf84c475ede71.my-phsite.com/wk_logo/preview/spin.mp4
 
 spin2 : https://webf84c475ede71.my-phsite.com/wk_logo/preview/spin2.mp4
