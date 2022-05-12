@@ -4,7 +4,7 @@
 
 # Default Configuration
 
-logo = "" // lien de votre logo
+logo = "" // lien de votre logo (Link of you logo)
 
 animation = "none" // Animation
 
